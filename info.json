@@ -1,0 +1,9 @@
+{
+	"name":"ManualSpeedLimit",
+	"author":"magu5026",
+	"version":"0.0.1",
+	"title":"Speed Limit",
+	"description":"This mod can set a maximum speed, with which trains can be moved in manual mode.",
+	"factorio_version":"0.15",
+	"dependencies": ["base >= 0.15.31"]
+}
